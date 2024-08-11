@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/": "pages/index.html",
+  "/api/send": "pages/api/send.js",
+  "/_error": "pages/_error.js",
+  "/kontakt": "pages/kontakt.html",
+  "/o-firmie": "pages/o-firmie.html",
+  "/oferta": "pages/oferta.html",
+  "/login": "pages/login.html",
+  "/update-price": "pages/update-price.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
