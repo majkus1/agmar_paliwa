@@ -290,6 +290,8 @@ header .hero-textmobile p {
 	font-size: 18px;
 	color: rgba(255, 255, 255, 0.801);
 	width: 60%;
+	font-weight: bold;
+	font-style: italic;
 }
 
 // header .hero-textmobile .buttonsoflinksmobile {
@@ -925,7 +927,7 @@ header .telnexttoprice {
 	}
 
 	header .hero-textmobile p {
-		font-size: 16px;
+		font-size: 18px;
 		width: 100%;
 	}
 
@@ -1094,6 +1096,8 @@ header .telnexttoprice {
 		text-align: center;
 		font-size: 22px;
 		color: rgba(255, 255, 255, 0.801);
+		font-weight: bold;
+		font-style: italic;
 	}
 
 	header .hero-text .buttonslinks {
@@ -1390,10 +1394,10 @@ header .telnexttoprice {
 		height: 275px;
 	}
 
-	.offer {
-		margin-left: 100px;
-		margin-right: 100px;
-	}
+	// .offer {
+	// 	margin-left: 100px;
+	// 	margin-right: 100px;
+	// }
 
 	.offer .line {
 		margin-left: 55px;

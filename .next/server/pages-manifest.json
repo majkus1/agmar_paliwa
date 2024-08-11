@@ -6,8 +6,8 @@
   "/kontakt": "pages/kontakt.html",
   "/o-firmie": "pages/o-firmie.html",
   "/login": "pages/login.html",
-  "/update-price": "pages/update-price.html",
   "/oferta": "pages/oferta.html",
+  "/update-price": "pages/update-price.html",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
 }
